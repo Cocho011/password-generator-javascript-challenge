@@ -4,7 +4,7 @@ Assignment Description: Utilizing code provided to create an application that an
 
 Started code came from: https://github.com/coding-boot-camp/friendly-parakeet.git
 
-Screenshot added. Path:
+Screenshot added. Path: Develop/module.3.challenge.password.generator.screenshot.png
 
 Deployed app: 
 
