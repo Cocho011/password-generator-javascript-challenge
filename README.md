@@ -6,6 +6,6 @@ Started code came from: https://github.com/coding-boot-camp/friendly-parakeet.gi
 
 Screenshot added. Path: Develop/module.3.challenge.password.generator.screenshot.png
 
-Deployed app: 
+Deployed app: https://cocho011.github.io/password-generator-javascript-challenge/
 
 Note: Does not produce any errors when inspecting it. Loads with no errors. Application is easy to navigate and functions properly. It also resembles provided example. 
