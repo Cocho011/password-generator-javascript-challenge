@@ -9,3 +9,10 @@ Screenshot added. Path: Develop/module.3.challenge.password.generator.screenshot
 Deployed app: https://cocho011.github.io/password-generator-javascript-challenge/
 
 Note: Does not produce any errors when inspecting it. Loads with no errors. Application is easy to navigate and functions properly. It also resembles provided example. 
+
+
+![alt text](<Screenshot 2024-01-17 221129.png>)
+
+Resubmitting on 2.3.2024 with github repo URL, started ode URL and deployed app URL, as well as screenshot. 
+
+Github Repo: https://github.com/Cocho011/password-generator-javascript-challenge
